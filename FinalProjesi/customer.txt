@@ -1,0 +1,16 @@
+Ali Can Kara,Antalya,0 554 2222222,0 543 3333333,0 246 1111111
+Canan Demir,Izmir,0 232 4444444
+Merve Yavuz,Erzurum,0 456 789 41,0 542 856
+Ali Demir,Muğla,0154625,45512
+Furkan Kara,Bursa,46455,78952
+Fatma Tuz,Rize,78854221,4758222
+Veli Kara,Hatay,0 457655
+Deniz Demir,Istanbul,4556789
+Elif Yılmaz,Bursa,46545646545
+Ayşe Tuz,Malatya, 47895 455
+Ilayda Yılmaz,Muğla,789,4585214
+Veli Tuz,Ankara,0 533 1111111,0 312 1111111
+Kemal Yılmaz,Adana,454521,546312213
+Cemil Demir,Muğla,7895132,45544
+Burak Kara,Mersin,478565132 45
+Esra Yılmaz,Istanbul,55664554,7854
